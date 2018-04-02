@@ -1,4 +1,4 @@
-package com.ziemerz.monopoly;
+package com.kvetter.monopoly;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

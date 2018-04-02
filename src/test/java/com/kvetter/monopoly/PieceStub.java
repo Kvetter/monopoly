@@ -1,7 +1,7 @@
-package com.ziemerz.monopoly;
+package com.kvetter.monopoly;
 
-import com.ziemerz.monopoly.model.Piece;
-import com.ziemerz.monopoly.model.Player;
+import com.kvetter.monopoly.model.Piece;
+import com.kvetter.monopoly.model.Player;
 
 public class PieceStub implements Piece {
     private Player player;

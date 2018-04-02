@@ -1,4 +1,4 @@
-package com.ziemerz.monopoly.model;
+package com.kvetter.monopoly.model;
 
 import org.springframework.stereotype.Component;
 

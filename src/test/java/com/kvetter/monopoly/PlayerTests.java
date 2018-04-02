@@ -1,6 +1,10 @@
-package com.ziemerz.monopoly;
+package com.kvetter.monopoly;
 
-import com.ziemerz.monopoly.model.*;
+import com.kvetter.monopoly.model.Dice;
+import com.kvetter.monopoly.model.Game;
+import com.kvetter.monopoly.model.Piece;
+import com.kvetter.monopoly.model.Player;
+import com.kvetter.monopoly.model.*;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
